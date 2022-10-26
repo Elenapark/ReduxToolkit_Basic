@@ -1,9 +1,9 @@
-import Counter from "./features/counter/Counter";
+import PostLists from "./features/posts/PostLists";
 
 function App() {
   return (
     <main className="App">
-      <Counter />
+      <PostLists />
     </main>
   );
 }
