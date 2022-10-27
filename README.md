@@ -12,3 +12,4 @@
 - make simple react bulletin board app and manage the global state with redux toolkit
 - react toolkit usese immerJS under the hood which allows you to write JS code where you would normally be mutating the state but it's not mutating the state : but only works inside of createSlice function of redux toolkit.
 - makes reducer / prepare callbacks for our post added reducer funtions in postSlice.js : when dispatch, our addPostForm component doesn't need to the structure of the state at all. because all of that is now handled inside of the postSlice.js
+- add redux dev tools to browser
