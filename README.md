@@ -16,3 +16,8 @@
 - add userSlice.js and author data to the each post.
 - add date state in the postSlice.js using date-fns npm package and display passed time from the written time of each post.
 - add reaction emoji to the post and make reactions added reducer functions to apply reaction
+
+# React Redux Thunk Middleware in Redux Toolkit for Async Acions with Axios
+
+- Redux Thunk Middleward is recommended as the standard approach for writing async logic with redux
+- what does _Thunk_ mean ? a programming term that means 'a piece of code that does some delayed work'
