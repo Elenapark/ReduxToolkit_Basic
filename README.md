@@ -29,3 +29,13 @@
   - fetchUsers async thunk
   - addNewPost async thunk
 - add extraReducers and builder cases for async logic
+
+## Blog App Project with React.js, Redux Toolkit CRUD Examples
+
+- add routing to the app using react-router-dom V6
+- make single post page using Link Component and useParams of react-router-dom
+- make edit post form for update, delete post
+  - updatePost async thunk
+  - deletePost async thunk
+- fix update post errors related to fake api issue
+- dispatch post data at the top level
